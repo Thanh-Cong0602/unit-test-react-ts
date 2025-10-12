@@ -1,7 +1,4 @@
 /**
- * Author: TrungQuanDev: https://youtube.com/@trungquandev
- * ---
- * /**
  * Order an array of objects based on another array & return new Ordered Array
  * If the key is not found in the orderArray, it will be placed at the end of the returned array.
  * The originalArray will not be modified.
@@ -13,7 +10,8 @@
  *
  * For Vietnamese with love :D
  * Sắp xếp một mảng dữ liệu dựa trên key thuộc về một mảng khác và trả về một mảng được sắp xếp.
- * Xác định các phần tử trong array gốc ban đầu (originalArray) xem nó nằm ở đâu trong array thứ 2 (orderArray) (là array mà mình dùng để sắp xếp) bằng cách tìm index (indexOf) rồi sẽ sắp xếp theo index đó bằng hàm sort của Javascript.
+ * Xác định các phần tử trong array gốc ban đầu (originalArray) xem nó nằm ở đâu trong array thứ 2 
+ * (orderArray) (là array mà mình dùng để sắp xếp) bằng cách tìm index (indexOf) rồi sẽ sắp xếp theo index đó bằng hàm sort của Javascript.
  * Nếu key không tìm thấy trong array thứ 2 (orderArray), nó sẽ được sắp xếp ở cuối array trả về.
  */
 
